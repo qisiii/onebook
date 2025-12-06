@@ -1,0 +1,3 @@
+[submodule "elastic"]
+	path = elastic
+	url = git@github.com:qisiii/elastic_doc_translate.git
